@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello Cascada. You are the best!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!The third commit is the best!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
